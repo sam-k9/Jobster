@@ -16,9 +16,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe
-            quasi consectetur sapiente, maiores cumque, consequuntur earum harum
-            sequi tempore facilis !
+            "Simplify your job hunt with our intuitive Job Application Tracker – stay organized and land your dream job!
           </p>
           <Link to="/register" className="btn btn-hero">
             Login/Register
